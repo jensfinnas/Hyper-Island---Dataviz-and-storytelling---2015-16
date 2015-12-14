@@ -47,6 +47,7 @@ Creativity is, as always, appreciated.
 #### Data + design
 
 A simple introduction to preparing and visualizing information
+
 https://infoactive.co/data-design/
 
 #### An Economist’s Guide to Visualizing Data
@@ -64,6 +65,7 @@ https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-com
 #### Datajournalistik.se
 
 My own collection of tools and resources for data journalism.
+
 http://datajournalistik.se
 
 #### Open Knowledge Foundation: School of Data
@@ -71,6 +73,7 @@ http://datajournalistik.se
 #### Visualising Information for Advocacy: Visualisation tools
 
 A interactive guide for finding the right tool for your visualization needs.
+
 https://visualisingadvocacy.org/resources/visualisationtools
 
 #### Javascript libraries for data visualization 
