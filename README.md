@@ -92,3 +92,4 @@ http://www.visualisingdata.com/resources/
 - http://www.informationisbeautifulawards.com/news/116-2015-the-winners
 - http://flowingdata.com/
 - http://visual.ly/view
+- Your inspiration links: https://docs.google.com/spreadsheets/d/19RnbzUdq_AAYyMcIBcKPRQ0gMANV9Uf0p8LB95Ioph4/edit#gid=534688461
